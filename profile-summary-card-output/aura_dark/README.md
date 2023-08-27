@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/woo-cie/woo-cie/master/profile-summary-card-output/aura_dark/4-productive-time.svg)
-```
-
-    
